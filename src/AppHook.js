@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.css'
 
 export const App = () => {
   const [musicians, setMusicians] = useState([1])
-  const [maxNumber, setMaxNumber] = useState(0)
+  const [maxNumber, setMaxNumber] = useState(1)
   const [color, setColor] = useState('#000000')
 
   const add = () => {
