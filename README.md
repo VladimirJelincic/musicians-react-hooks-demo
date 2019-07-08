@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Purpose
-It's purpose is to demonstrate two applications running side by side on the same page, one using old-style React Classes, the other using the new React Hooks concept.
+## Demo
+The purpose of this demo is to show two identical applications running side by side on the same page, one using old-style React Classes, the other using the new React Hooks concept.
 
 ## Available Scripts
 
